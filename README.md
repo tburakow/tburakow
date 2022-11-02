@@ -29,7 +29,7 @@ My interests include among others:
 
 Founded in 2013 by tech entrepreneur and visionary Xavier Niel, 42 disrupted education by building a school without the traditional teacher-student model, focusing on peer-to-peer collaboration, problem-solving and creativity. The impressive results (100% of graduates well-employed, 50% of which had no coding experience) have inspired others around the world to replicate the model with success. In July 2019, we opened our doors in Finland and were the first school of our kind in the Nordics"
 
-## My experience studying at Hive Helsinki
+## Studying at Hive Helsinki
 
 
 
