@@ -9,14 +9,14 @@ My interests include among others:
 ## Current knowledge:
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="Modern C">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" width="40" title="Unix trickery">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" width="40" title="Unix trickery">
  
 </p> 
 
 ## In the future:
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" width="40" title="Azure">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++">
