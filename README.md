@@ -37,7 +37,7 @@ Most of the coding I do in Hive is done in C. Additionally, we are only allowed 
 
 This has taught me to not rely on opaque libraries to perform the tasks, and instead to approach the problems in a very thorough manner. 
 
-Hive's peer-to-peer approach has taught me to both ask for help when I'm stuck, and to be more ready to help others when they seems to struggle with something. Rubberducking is effective!
+Hive's peer-to-peer approach has taught me to both ask for help when I'm stuck, and to be more ready to help others when i found them struggling. Rubberducking is effective!
 
 
 
