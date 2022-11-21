@@ -1,10 +1,8 @@
 # About me:
 
-An art conservator switching careers into coding. Currently studying @ [Hive helsinki](https://www.hive.fi/en/) and looking for an internship.  
-My interests include among others:
--  Algorithms.
--  3D-printing.
--  Micro-controllers.
+An art conservator switching careers into coding. Currently studying @ [Hive helsinki](https://www.hive.fi/en/) and looking for an internship/junior developer position.  
+My interest in problem solving is what drove me to choose the alrithm branch in my studies and still drives my studies.
+I'm an avid reader and enjoy working out in my spare time.
 
 ## Current knowledge:
 <p>
